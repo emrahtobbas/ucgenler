@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1673824997,
+	"version": 1674072491,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -27,12 +27,6 @@
 		"images/sprite2-sheet0.png",
 		"images/sprite2-sheet1.png",
 		"images/sprite2-sheet2.png",
-		"media/dogruses.m4a",
-		"media/dogruses.ogg",
-		"media/yanlisses.m4a",
-		"media/yanlisses.ogg",
-		"media/tikla.m4a",
-		"media/tikla.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
